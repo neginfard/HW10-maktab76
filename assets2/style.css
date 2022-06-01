@@ -1,0 +1,28 @@
+.div-icons {
+  width: 40px;
+  height: 40px;
+  line-height: 35px;
+}
+.div-icons > svg {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.p-box {
+  text-align: justify;
+}
+.price-row {
+  line-height: 2.3rem;
+}
+#message {
+  height: 8rem;
+}
+#message::placeholder {
+  position: absolute;
+}
+input::placeholder {
+  font-size: 1rem;
+  font-weight: 500;
+}
+.fa-check {
+  color: #0b5ed7;
+}
